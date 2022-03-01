@@ -1,0 +1,66 @@
+#sidebar {
+    background-color: #242e33;
+}
+
+#sidebar .block h1 {
+    color: #d3d3d3;
+}
+
+#sidebar select {
+    color: #d3d3d3;
+}
+
+#topbar {
+    background-color: #242e33;
+    color: #d3d3d3;
+}
+
+#root, input, select {
+    background-color: #283339;
+    color: #d3d3d3;
+}
+
+#view .item {
+    background-color: transparent;
+}
+
+#info {
+    background-color: #242e33;
+    border-left: 3px solid #3f4f57;
+}
+
+#tree .label {
+    color: #d3d3d3;
+}
+
+#crumbbar .label {
+    color: #d3d3d3;
+}
+
+#tree {
+    border-right: 3px double #3f4f57;
+}
+
+#search input {
+    color: #fff;
+}
+
+#pv-content-txt {
+    background-color: #242e33;
+}
+
+#pv-buttons .bar-label {
+    opacity: 1;
+}
+
+#pv-bottombar {
+    background-color: #000;
+}
+
+#pv-overlay.fullscreen #pv-bottombar {
+    opacity: 0.7;
+}
+
+#sidebar input:hover, #sidebar select:hover {
+    background-color: #242e33;
+}
